@@ -1,19 +1,19 @@
 {
-  "name": "c9m-sensor-system-info",
-  "version": "0.1.0",
-  "description": "Cloud9Metrics sensor for reading system information",
+  "name": "c9m-sensor-process-info",
+  "version": "0.1.1",
+  "description": "Cloud9Metrics sensor for reading process information",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cloud9Trader/c9m-sensor-system-info.git"
+    "url": "git+https://github.com/Cloud9Trader/c9m-sensor-process-info.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cloud9Trader/c9m-sensor-system-info/issues"
+    "url": "https://github.com/Cloud9Trader/c9m-sensor-process-info/issues"
   },
-  "homepage": "https://github.com/Cloud9Trader/c9m-sensor-system-info#readme",
+  "homepage": "https://github.com/Cloud9Trader/c9m-sensor-process-info#readme",
   "dependencies": {}
 }
